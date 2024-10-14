@@ -1,7 +1,7 @@
 ## mctspy : python implementation of Monte Carlo Tree Search algorithm
 
  
-Basic python implementation of [Monte Carlo Tree Search](https://int8.io/monte-carlo-tree-search-beginners-guide) (MCTS) intended to run on small game trees. 
+Basic Python implementation of [Monte Carlo Tree Search](https://int8.io/monte-carlo-tree-search-beginners-guide) (MCTS) intended to run on small game trees. 
  
 
 ### Installation
